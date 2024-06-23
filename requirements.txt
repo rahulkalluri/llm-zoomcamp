@@ -1,0 +1,9 @@
+requests
+notebook==7.1.2
+openai
+elasticsearch
+pandas
+scikit-learn
+tqdm
+docker
+tiktoken
